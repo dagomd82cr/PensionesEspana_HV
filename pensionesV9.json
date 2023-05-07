@@ -1,0 +1,572 @@
+[
+  {
+    "Fecha": "2015-05-01",
+    "Pensionistas": 8434731,
+    "Hombres": 4382142,
+    "Mujeres": 4052360
+  },
+  {
+    "Fecha": "2015-06-01",
+    "Pensionistas": 8447911,
+    "Hombres": 4388378,
+    "Mujeres": 4059321
+  },
+  {
+    "Fecha": "2015-07-01",
+    "Pensionistas": 8461153,
+    "Hombres": 4394850,
+    "Mujeres": 4066129
+  },
+  {
+    "Fecha": "2015-08-01",
+    "Pensionistas": 8462042,
+    "Hombres": 4395349,
+    "Mujeres": 4066465
+  },
+  {
+    "Fecha": "2015-09-01",
+    "Pensionistas": 8474512,
+    "Hombres": 4401312,
+    "Mujeres": 4073015
+  },
+  {
+    "Fecha": "2015-10-01",
+    "Pensionistas": 8485978,
+    "Hombres": 4406434,
+    "Mujeres": 4079327
+  },
+  {
+    "Fecha": "2015-11-01",
+    "Pensionistas": 8498073,
+    "Hombres": 4412354,
+    "Mujeres": 4085506
+  },
+  {
+    "Fecha": "2015-12-01",
+    "Pensionistas": 8508482,
+    "Hombres": 4417332,
+    "Mujeres": 4091026
+  },
+  {
+    "Fecha": "2016-01-01",
+    "Pensionistas": 8503090,
+    "Hombres": 4414722,
+    "Mujeres": 4088276
+  },
+  {
+    "Fecha": "2016-02-01",
+    "Pensionistas": 8509091,
+    "Hombres": 4417121,
+    "Mujeres": 4091753
+  },
+  {
+    "Fecha": "2016-03-01",
+    "Pensionistas": 8518727,
+    "Hombres": 4421478,
+    "Mujeres": 4097019
+  },
+  {
+    "Fecha": "2016-04-01",
+    "Pensionistas": 8524591,
+    "Hombres": 4423505,
+    "Mujeres": 4100816
+  },
+  {
+    "Fecha": "2016-05-01",
+    "Pensionistas": 8528843,
+    "Hombres": 4425358,
+    "Mujeres": 4103294
+  },
+  {
+    "Fecha": "2016-06-01",
+    "Pensionistas": 8545172,
+    "Hombres": 4433138,
+    "Mujeres": 4111868
+  },
+  {
+    "Fecha": "2016-07-01",
+    "Pensionistas": 8559328,
+    "Hombres": 4439948,
+    "Mujeres": 4119181
+  },
+  {
+    "Fecha": "2016-08-01",
+    "Pensionistas": 8568629,
+    "Hombres": 4444259,
+    "Mujeres": 4124178
+  },
+  {
+    "Fecha": "2016-09-01",
+    "Pensionistas": 8574146,
+    "Hombres": 4446349,
+    "Mujeres": 4127590
+  },
+  {
+    "Fecha": "2016-10-01",
+    "Pensionistas": 8586224,
+    "Hombres": 4451164,
+    "Mujeres": 4134852
+  },
+  {
+    "Fecha": "2016-11-01",
+    "Pensionistas": 8595509,
+    "Hombres": 4455524,
+    "Mujeres": 4139813
+  },
+  {
+    "Fecha": "2016-12-01",
+    "Pensionistas": 8609085,
+    "Hombres": 4462196,
+    "Mujeres": 4146785
+  },
+  {
+    "Fecha": "2017-01-01",
+    "Pensionistas": 8602601,
+    "Hombres": 4458754,
+    "Mujeres": 4143757
+  },
+  {
+    "Fecha": "2017-02-01",
+    "Pensionistas": 8598985,
+    "Hombres": 4457988,
+    "Mujeres": 4140840
+  },
+  {
+    "Fecha": "2017-03-01",
+    "Pensionistas": 8610495,
+    "Hombres": 4461954,
+    "Mujeres": 4148401
+  },
+  {
+    "Fecha": "2017-04-01",
+    "Pensionistas": 8624602,
+    "Hombres": 4467641,
+    "Mujeres": 4156734
+  },
+  {
+    "Fecha": "2017-05-01",
+    "Pensionistas": 8618842,
+    "Hombres": 4464508,
+    "Mujeres": 4154159
+  },
+  {
+    "Fecha": "2017-06-01",
+    "Pensionistas": 8637504,
+    "Hombres": 4472973,
+    "Mujeres": 4164325
+  },
+  {
+    "Fecha": "2017-07-01",
+    "Pensionistas": 8652057,
+    "Hombres": 4479922,
+    "Mujeres": 4171975
+  },
+  {
+    "Fecha": "2017-08-01",
+    "Pensionistas": 8661628,
+    "Hombres": 4484049,
+    "Mujeres": 4177428
+  },
+  {
+    "Fecha": "2017-09-01",
+    "Pensionistas": 8668141,
+    "Hombres": 4486574,
+    "Mujeres": 4181408
+  },
+  {
+    "Fecha": "2017-10-01",
+    "Pensionistas": 8679378,
+    "Hombres": 4491082,
+    "Mujeres": 4188117
+  },
+  {
+    "Fecha": "2017-11-01",
+    "Pensionistas": 8692779,
+    "Hombres": 4497218,
+    "Mujeres": 4195427
+  },
+  {
+    "Fecha": "2017-12-01",
+    "Pensionistas": 8705707,
+    "Hombres": 4502899,
+    "Mujeres": 4202714
+  },
+  {
+    "Fecha": "2018-01-01",
+    "Pensionistas": 8698160,
+    "Hombres": 4498646,
+    "Mujeres": 4199434
+  },
+  {
+    "Fecha": "2018-02-01",
+    "Pensionistas": 8699056,
+    "Hombres": 4498180,
+    "Mujeres": 4200622
+  },
+  {
+    "Fecha": "2018-03-01",
+    "Pensionistas": 8708127,
+    "Hombres": 4501709,
+    "Mujeres": 4206133
+  },
+  {
+    "Fecha": "2018-04-01",
+    "Pensionistas": 8715347,
+    "Hombres": 4504094,
+    "Mujeres": 4211068
+  },
+  {
+    "Fecha": "2018-05-01",
+    "Pensionistas": 8714595,
+    "Hombres": 4502424,
+    "Mujeres": 4212039
+  },
+  {
+    "Fecha": "2018-06-01",
+    "Pensionistas": 8733153,
+    "Hombres": 4510248,
+    "Mujeres": 4222705
+  },
+  {
+    "Fecha": "2018-07-01",
+    "Pensionistas": 8747282,
+    "Hombres": 4516370,
+    "Mujeres": 4230789
+  },
+  {
+    "Fecha": "2018-08-01",
+    "Pensionistas": 8755362,
+    "Hombres": 4519465,
+    "Mujeres": 4235776
+  },
+  {
+    "Fecha": "2018-09-01",
+    "Pensionistas": 8762772,
+    "Hombres": 4522081,
+    "Mujeres": 4240553
+  },
+  {
+    "Fecha": "2018-11-01",
+    "Pensionistas": 8787752,
+    "Hombres": 4530615,
+    "Mujeres": 4256939
+  },
+  {
+    "Fecha": "2018-12-01",
+    "Pensionistas": 8806744,
+    "Hombres": 4539283,
+    "Mujeres": 4267393
+  },
+  {
+    "Fecha": "2019-01-01",
+    "Pensionistas": 8807128,
+    "Hombres": 4539414,
+    "Mujeres": 4267640
+  },
+  {
+    "Fecha": "2019-02-01",
+    "Pensionistas": 8818371,
+    "Hombres": 4545015,
+    "Mujeres": 4273280
+  },
+  {
+    "Fecha": "2019-03-01",
+    "Pensionistas": 8816002,
+    "Hombres": 4543330,
+    "Mujeres": 4272425
+  },
+  {
+    "Fecha": "2019-04-01",
+    "Pensionistas": 8824066,
+    "Hombres": 4546488,
+    "Mujeres": 4277513
+  },
+  {
+    "Fecha": "2019-05-01",
+    "Pensionistas": 8815982,
+    "Hombres": 4541180,
+    "Mujeres": 4274738
+  },
+  {
+    "Fecha": "2019-06-01",
+    "Pensionistas": 8838580,
+    "Hombres": 4550874,
+    "Mujeres": 4287642
+  },
+  {
+    "Fecha": "2019-07-01",
+    "Pensionistas": 8849299,
+    "Hombres": 4555099,
+    "Mujeres": 4294137
+  },
+  {
+    "Fecha": "2019-08-01",
+    "Pensionistas": 8858778,
+    "Hombres": 4558393,
+    "Mujeres": 4300323
+  },
+  {
+    "Fecha": "2019-09-01",
+    "Pensionistas": 8862296,
+    "Hombres": 4558901,
+    "Mujeres": 4303333
+  },
+  {
+    "Fecha": "2019-10-01",
+    "Pensionistas": 8869496,
+    "Hombres": 4560661,
+    "Mujeres": 4308774
+  },
+  {
+    "Fecha": "2019-11-01",
+    "Pensionistas": 8882933,
+    "Hombres": 4565995,
+    "Mujeres": 4316878
+  },
+  {
+    "Fecha": "2019-12-01",
+    "Pensionistas": 8897902,
+    "Hombres": 4572380,
+    "Mujeres": 4325463
+  },
+  {
+    "Fecha": "2020-01-01",
+    "Pensionistas": 8897979,
+    "Hombres": 4571631,
+    "Mujeres": 4326285
+  },
+  {
+    "Fecha": "2020-02-01",
+    "Pensionistas": 8904789,
+    "Hombres": 4574430,
+    "Mujeres": 4330300
+  },
+  {
+    "Fecha": "2020-03-01",
+    "Pensionistas": 8896412,
+    "Hombres": 4569098,
+    "Mujeres": 4327257
+  },
+  {
+    "Fecha": "2020-04-01",
+    "Pensionistas": 8889909,
+    "Hombres": 4563831,
+    "Mujeres": 4326022
+  },
+  {
+    "Fecha": "2020-05-01",
+    "Pensionistas": 8856073,
+    "Hombres": 4545099,
+    "Mujeres": 4310915
+  },
+  {
+    "Fecha": "2020-06-01",
+    "Pensionistas": 8855193,
+    "Hombres": 4542225,
+    "Mujeres": 4312909
+  },
+  {
+    "Fecha": "2020-07-01",
+    "Pensionistas": 8864446,
+    "Hombres": 4544056,
+    "Mujeres": 4320335
+  },
+  {
+    "Fecha": "2020-08-01",
+    "Pensionistas": 8873158,
+    "Hombres": 4546714,
+    "Mujeres": 4326390
+  },
+  {
+    "Fecha": "2020-09-01",
+    "Pensionistas": 8861002,
+    "Hombres": 4539731,
+    "Mujeres": 4321217
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Pensionistas": 8867680,
+    "Hombres": 4541369,
+    "Mujeres": 4326256
+  },
+  {
+    "Fecha": "2020-11-01",
+    "Pensionistas": 8881019,
+    "Hombres": 4546235,
+    "Mujeres": 4334729
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Pensionistas": 8899064,
+    "Hombres": 4553278,
+    "Mujeres": 4345732
+  },
+  {
+    "Fecha": "2021-01-01",
+    "Pensionistas": 8901219,
+    "Hombres": 4553093,
+    "Mujeres": 4348072
+  },
+  {
+    "Fecha": "2021-02-01",
+    "Pensionistas": 8897914,
+    "Hombres": 4549166,
+    "Mujeres": 4348694
+  },
+  {
+    "Fecha": "2021-03-01",
+    "Pensionistas": 8904291,
+    "Hombres": 4550364,
+    "Mujeres": 4353873
+  },
+  {
+    "Fecha": "2021-04-01",
+    "Pensionistas": 8911412,
+    "Hombres": 4551187,
+    "Mujeres": 4360171
+  },
+  {
+    "Fecha": "2021-05-01",
+    "Pensionistas": 8920066,
+    "Hombres": 4553349,
+    "Mujeres": 4366664
+  },
+  {
+    "Fecha": "2021-06-01",
+    "Pensionistas": 8935875,
+    "Hombres": 4559541,
+    "Mujeres": 4376282
+  },
+  {
+    "Fecha": "2021-07-01",
+    "Pensionistas": 8947574,
+    "Hombres": 4564087,
+    "Mujeres": 4383435
+  },
+  {
+    "Fecha": "2021-08-01",
+    "Pensionistas": 8941071,
+    "Hombres": 4559461,
+    "Mujeres": 4381558
+  },
+  {
+    "Fecha": "2021-09-01",
+    "Pensionistas": 8949770,
+    "Hombres": 4562667,
+    "Mujeres": 4387051
+  },
+  {
+    "Fecha": "2021-10-01",
+    "Pensionistas": 8958584,
+    "Hombres": 4565412,
+    "Mujeres": 4393122
+  },
+  {
+    "Fecha": "2021-11-01",
+    "Pensionistas": 8974596,
+    "Hombres": 4572221,
+    "Mujeres": 4402325
+  },
+  {
+    "Fecha": "2021-12-01",
+    "Pensionistas": 8990513,
+    "Hombres": 4579040,
+    "Mujeres": 4411425
+  },
+  {
+    "Fecha": "2022-01-01",
+    "Pensionistas": 8995154,
+    "Hombres": 4581223,
+    "Mujeres": 4413883
+  },
+  {
+    "Fecha": "2022-02-01",
+    "Pensionistas": 8988047,
+    "Hombres": 4575753,
+    "Mujeres": 4412248
+  },
+  {
+    "Fecha": "2022-03-01",
+    "Pensionistas": 8996829,
+    "Hombres": 4579533,
+    "Mujeres": 4417250
+  },
+  {
+    "Fecha": "2022-04-01",
+    "Pensionistas": 9001585,
+    "Hombres": 4579928,
+    "Mujeres": 4421611
+  },
+  {
+    "Fecha": "2022-05-01",
+    "Pensionistas": 8989652,
+    "Hombres": 4572324,
+    "Mujeres": 4417284
+  },
+  {
+    "Fecha": "2022-06-01",
+    "Pensionistas": 9004591,
+    "Hombres": 4578103,
+    "Mujeres": 4426444
+  },
+  {
+    "Fecha": "2022-07-01",
+    "Pensionistas": 9013485,
+    "Hombres": 4579847,
+    "Mujeres": 4433593
+  },
+  {
+    "Fecha": "2022-08-01",
+    "Pensionistas": 9015379,
+    "Hombres": 4578929,
+    "Mujeres": 4436407
+  },
+  {
+    "Fecha": "2022-09-01",
+    "Pensionistas": 9015737,
+    "Hombres": 4577293,
+    "Mujeres": 4438402
+  },
+  {
+    "Fecha": "2022-10-01",
+    "Pensionistas": 9022989,
+    "Hombres": 4578861,
+    "Mujeres": 4444086
+  },
+  {
+    "Fecha": "2022-11-01",
+    "Pensionistas": 9036457,
+    "Hombres": 4583602,
+    "Mujeres": 4452814
+  },
+  {
+    "Fecha": "2022-12-01",
+    "Pensionistas": 9053550,
+    "Hombres": 4590894,
+    "Mujeres": 4462615
+  },
+  {
+    "Fecha": "2023-01-01",
+    "Pensionistas": 9067433,
+    "Hombres": 4598430,
+    "Mujeres": 4468962
+  },
+  {
+    "Fecha": "2023-02-01",
+    "Pensionistas": 9067267,
+    "Hombres": 4597957,
+    "Mujeres": 4469269
+  },
+  {
+    "Fecha": "2023-03-01",
+    "Pensionistas": 9076616,
+    "Hombres": 4602505,
+    "Mujeres": 4474070
+  },
+  {
+    "Fecha": "2023-04-01",
+    "Pensionistas": 9082603,
+    "Hombres": 4604413,
+    "Mujeres": 4478152
+  }
+]
